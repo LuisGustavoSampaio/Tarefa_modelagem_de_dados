@@ -1,6 +1,3 @@
-import model
-
-print(dir(model))
 from flask import Flask, render_template, request
 from model import Cliente, ContaCorrente, BancoDados
 
