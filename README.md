@@ -1,6 +1,6 @@
 # 💻 Exercício 1 do trabalho de modelagem de dados
 
-Trabalho da faculdade desenvolvido com o padrão arquitetural **MVC (Model-View-Controller)** utilizando **Python + Flask**.
+Trabalho da faculdade desenvolvido com o padrão arquitetural **MVC (Model-View-Controller)** utilizando **Python + HTML**
 
 ---
 
