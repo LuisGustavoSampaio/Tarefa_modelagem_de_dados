@@ -71,11 +71,6 @@ Tarefa_modelagem_de_dados/
 ## 📚 Observações
 
 * O sistema utiliza uma lista em memória para simular um banco de dados
-* O Flask é utilizado apenas como controlador e para renderizar as páginas HTML
 * Este projeto tem fins acadêmicos
 
 ---
-
-## 👨‍💻 Autor
-
-Desenvolvido para atividade acadêmica.
